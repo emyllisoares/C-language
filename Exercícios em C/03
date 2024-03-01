@@ -1,4 +1,4 @@
-/Como encontrar o maior e o menor entre três números.
+//Como encontrar o maior e o menor entre três números.
 
 #include <stdio.h>
 
