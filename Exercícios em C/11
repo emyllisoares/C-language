@@ -1,0 +1,5 @@
+/* O programa lê um vetor N de tamanho 20 e o imprime na tela. Em seguida,
+ o 1º elemento é trocado com o último, o 2º com o penúltimo, ... até o 10º 
+ com o 11º. Será impresso vetor N modificado.*/
+
+ 
